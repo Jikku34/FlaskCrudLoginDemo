@@ -1,0 +1,21 @@
+ /* Custom Styles for Navbar and Footer */
+        .navbar {
+            background-color: #f8f9fa; /* Light background */
+        }
+
+        .navbar .nav-link {
+            color: #007bff; /* Blue links */
+        }
+
+        .navbar .nav-link:hover {
+            color: #0056b3; /* Darker blue on hover */
+        }
+
+        footer {
+            background-color: #f8f9fa; /* Light footer background */
+        }
+
+        footer p {
+            margin: 0;
+            color: #6c757d; /* Muted text */
+        }
